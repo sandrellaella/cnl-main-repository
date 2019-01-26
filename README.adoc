@@ -1,6 +1,11 @@
 # cnl-main-repository
 The main repository of the Architecture Controlled Natural Language project.
 
+## About the approach
+
+- ontology-based formalization of architecture language and architecture rules
+- using reasoning services built-upon description logics and the semantic web, architecture rules can be validated against source code in order to detect architecture violations
+
 The table below lists the repositories of the CNL project.
 
 .List of repositories
