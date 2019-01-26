@@ -1,2 +1,10 @@
 # cnl-main-repository
 The main repository of the Architecture Controlled Natural Language project.
+
+The table below lists the repositories of the CNL project.
+
+.List of repositories
+|===
+| architecture-cnl | grammar of the CNL and generation of OWL axioms | https://github.com/sandrellaella/architecture-cnl[^]
+| owlify  | Several generators for transforming software artefacts into an ontology-based representation | https://github.com/sandrellaella/owlify[^]
+|===
