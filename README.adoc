@@ -10,6 +10,12 @@ The table below lists the repositories of the CNL project.
 
 .List of repositories
 |===
+| CNL Toolchain  | Combines all the components to a tool chain for performing conformance checking | https://github.com/sandrellaella/cnl-toolchain[^]
 | architecture-cnl | grammar of the CNL and generation of OWL axioms | https://github.com/sandrellaella/architecture-cnl[^]
 | owlify  | Several generators for transforming software artefacts into an ontology-based representation | https://github.com/sandrellaella/owlify[^]
+| cnl-common  | Common data types for the CNL tool chain | https://github.com/sandrellaella/cnl-common[^]
+| cnl-verify  | Component that performs the actual conformance checking. | https://github.com/sandrellaella/cnl-verify[^]
+| cnl-documentation  | Integrates CNL in well-known architecture documentation templates in an asciidoc format, e.g. arc42 and architecture decision records (ADR).| https://github.com/sandrellaella/cnl-documentation[^]
+| architecture-to-code-mapper | Maps the architecture concepts and relations to source code elements. Mapping rules are specified as SWRL rules. The mapping is performed using rule-based reasoning. | https://github.com/sandrellaella/architecture-to-code-mapper[^]
+| stardog-connector | Connection to the Stardog Database where architectural rules and source code artefacts are stored and with which integrity constraints are validated . | https://github.com/sandrellaella/stardog-connector[^]
 |===
